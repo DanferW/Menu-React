@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.circle-img {
+  background-color: aqua;
+  width: 400px;
+  height: 200px;
+}
